@@ -5,7 +5,8 @@ This project demonstrates a simple embedded system using Arduino to control two 
 
 The project is implemented using Tinkercad and is suitable for beginners learning motor control and communication protocols like I2C.
 
-![Circuit](circuit.png)
+![Photo](Images/DCmotors.png)
+
 ---
 
 ## Components Used
